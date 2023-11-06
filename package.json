@@ -1,0 +1,38 @@
+{
+  "name": "spending-helper",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@popperjs/core": "^2.11.8",
+    "firebase": "^10.5.2",
+    "moment": "^2.29.4",
+    "pinia": "^2.1.7",
+    "pinia-plugin-persistedstate": "^3.2.0",
+    "uuid": "^9.0.1",
+    "v-calendar": "^3.1.2",
+    "vue": "^3.3.4",
+    "vue-i18n": "^9.6.5",
+    "vue-router": "^4.2.5",
+    "vuetify": "^3.3.23"
+  },
+  "devDependencies": {
+    "@mdi/font": "^7.3.67",
+    "@types/node": "^20.4.1",
+    "@types/uuid": "^9.0.6",
+    "@typescript-eslint/eslint-plugin": "^6.9.1",
+    "@typescript-eslint/parser": "^6.9.1",
+    "@vitejs/plugin-vue": "^4.2.3",
+    "eslint": "^8.52.0",
+    "eslint-plugin-vue": "^9.18.1",
+    "sass": "^1.69.5",
+    "typescript": "^5.0.2",
+    "vite": "^4.4.5",
+    "vue-tsc": "^1.8.5"
+  }
+}

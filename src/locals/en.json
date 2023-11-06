@@ -1,0 +1,20 @@
+{
+  "homepage": {
+    "add-spending-btn-text": "New spending",
+    "title": "Month spending"
+  },
+  "new-spending-page": {
+    "title": "New spending",
+    "category-field-label": "Category",
+    "sub-category-field-label": "Sub category",
+    "no-category-found-error": "No category found",
+    "choose-category-error": "Choose category first",
+    "no-sub-category-found-error": "No sub category found",
+    "sum-field-label": "Sum",
+    "notes-field-label": "Notes",
+    "cancel-spending-btn-text": "Cancel",
+    "add-spending-btn-text": "Add",
+    "to-homepage-btn-text": "To homepage",
+    "add-more-btn-text": "Add more"
+  }
+}

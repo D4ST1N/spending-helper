@@ -1,0 +1,38 @@
+{
+  "homepage": {
+    "add-spending-btn-text": "Нова витрата",
+    "title": "Витрати цього місяця"
+  },
+  "new-spending-page": {
+    "title": "Нова витрата",
+    "category-field-label": "Категорія",
+    "sub-category-field-label": "Підкатегорія",
+    "no-category-found-error": "Не знайдено жодної категорії",
+    "choose-category-error": "Оберіть спочатку категорію",
+    "no-sub-category-found-error": "Не знайдено жодної підкатегорії",
+    "sum-field-label": "Сума",
+    "notes-field-label": "Нотатки",
+    "cancel-spending-btn-text": "Відмінити",
+    "add-spending-btn-text": "Додати",
+    "to-homepage-btn-text": "На головну",
+    "add-more-btn-text": "Додати ще",
+    "category-adding-success-text": "Категорія додана успішно",
+    "category-adding-error": "Помилка при додаванні категорії",
+    "sub-category-adding-success-text": "Підкатегорія додана успішно",
+    "sub-category-adding-error": "Помилка при додаванні підкатегорії"
+  },
+  "add-category-modal": {
+    "title": "Нова категорія",
+    "category-name-field-label": "Назва категорії",
+    "cancel-btn-text": "Відмінити",
+    "add-category-btn-text": "Додати",
+    "name-required-error": "Назва обов'язкова"
+  },
+  "add-sub-category-modal": {
+    "title": "Нова підкатегорія",
+    "category-name-field-label": "Назва підкатегорії",
+    "cancel-btn-text": "Відмінити",
+    "add-category-btn-text": "Додати",
+    "name-required-error": "Назва обов'язкова"
+  }
+}
